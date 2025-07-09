@@ -5,7 +5,7 @@ Motivated Full Stack Developer | PHP (Laravel) • Python (Django) • React
 </h3>
 
 <p align="center">
-I’m a passionate developer who loves building secure, robust web applications. I specialize in creating scalable back-end systems with Laravel and Django, designing clean user interfaces with React, and connecting everything through well-structured APIs. I enjoy tackling complex problems, exploring new tools like OAuth2, WebSockets, and AI integrations, and bringing practical solutions to life — from CRUD apps to advanced video generation projects.
+I’m a passionate developer who loves building secure, robust web applications. I specialize in creating scalable back-end systems with Laravel and Django, designing clean user interfaces with React, and connecting everything through well-structured APIs. I enjoy tackling complex problems, exploring new tools like OAuth2, WebSockets, and AI integrations, and bringing practical solutions to life, from CRUD apps to advanced video generation projects.
 </p>
 
 ---
